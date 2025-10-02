@@ -407,6 +407,7 @@ name = "haddock-restraints-py"
 version = "0.1.0"
 dependencies = [
  "haddock-restraints",
+ "pdbtbx",
  "pyo3",
  "pyo3-build-config",
 ]
