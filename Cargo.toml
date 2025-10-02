@@ -9,7 +9,7 @@ crate-type = ["cdylib"]
 
 [dependencies]
 haddock-restraints = "0.10"
-pyo3 = { version = "0.15", features = ["extension-module"] }
+pyo3 = { version = "0.26", features = ["extension-module"] }
 
 [build-dependencies]
 pyo3-build-config = "0.26"
