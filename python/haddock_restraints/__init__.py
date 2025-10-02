@@ -3,4 +3,4 @@
 from haddock_restraints._internal import *
 
 __version__ = "0.1.0"
-__all__ = ["example_function"]  # Add your exported functions here
+__all__ = ["foo"]  # Add your exported functions here
