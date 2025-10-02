@@ -1,8 +1,8 @@
 # haddock-restraints-py
 
-This repository contains the web assembly bindings of the
-[`haddock-restraints`](https://github.com/haddocking/haddock-restraints) so
-that it can be used as a python library.
+This repository contains the bindings of the
+[`haddock-restraints`](https://github.com/haddocking/haddock-restraints) code
+so that it can be used as a python library.
 
 ```python
 # Define binding regions
